@@ -1,0 +1,5 @@
+.DS_Store
+target
+src/test_folder/solutions/
+src/test_folder/testcases/
+**/__pycache__/**
