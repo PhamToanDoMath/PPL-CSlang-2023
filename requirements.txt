@@ -1,0 +1,8 @@
+# CSlang Compiler & Static Checker Dependencies
+
+# ANTLR 4 Python runtime (matches ANTLR 4.13.1 used for CSlang grammar)
+antlr4-python3-runtime==4.13.1
+
+# Testing & Code Coverage
+pytest>=7.0.0
+coverage>=7.0.0
